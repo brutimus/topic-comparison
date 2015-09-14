@@ -3,9 +3,66 @@
 
 @bg-color: #fff;
 @fg-color: #000;
-@spot-color: #cd1634;
+@spot-color: #E91D0E;
 
 html, body, .container {
 	width: 100%;
 	height: 100%;
+}
+
+body {
+	font-family: 'Source Sans Pro',sans-serif;
+	box-sizing: border-box;
+}
+
+.title h1 {
+	font-size: 2em;
+	text-align: center;
+	margin: .2em 0;
+}
+.navigation {
+	overflow: auto;
+
+	ul {
+		margin: 0;
+		padding: 0;
+		overflow: auto;
+
+		li {
+			display: block;
+			float: left;
+			height: 75px;
+			margin: 0;
+			width: 33.33%;
+
+			a {
+				display: block;
+				background-color: lighten(@spot-color, 20%);
+				width: 100%;
+				height: 100%;
+				text-align: center;
+				padding: 10px 0;
+				
+				&.active {
+					background-color: lighten(@spot-color, 10%);
+				}
+
+				&:link, &:visited {
+					text-decoration: none;
+					color: white;
+				}
+			}
+
+		}
+	}
+}
+.body {
+	> div {
+		display: none;
+		background-color: green;
+
+		&:target {
+			display: block;
+		}
+	}
 }

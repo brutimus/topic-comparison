@@ -24,8 +24,10 @@ function comparator() {
                     $('.slideshow').slick({
                         arrows: false,
                         lazyLoad: 'ondemand',
-                        respondTo: 'slider'
-
+                        respondTo: 'slider',
+                        centerMode: true,
+                        slidesToShow: 1,
+                        centerPadding: '40px'
                     })
                 }, 500);
                 jQuery('.navigation a').click(function(e){
@@ -54,16 +56,6 @@ function comparator() {
 
         draw_ui();
         // d3.xml('../img/stadium.svg', load_image);
-
-        /* ========== DEBUG ========== */
-
-        if (document.URL.indexOf('stadiumdebug') > 0) {
-            // ECHO MOUSE POSITION
-            svg.on('mousemove.position', function(){
-                var coord = d3.mouse(this);
-                console.log(coord[0], coord[1]);
-            });
-        }
     }
 
     return my;

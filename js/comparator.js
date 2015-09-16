@@ -22,12 +22,19 @@ function comparator() {
             jQuery(document).ready(function($) {
                 setTimeout(function(){
                     $('.slideshow').slick({
-                        arrows: false,
                         lazyLoad: 'ondemand',
                         respondTo: 'slider',
                         centerMode: true,
                         slidesToShow: 1,
-                        centerPadding: '40px'
+                        centerPadding: '20px',
+                        responsive: [
+                            {
+                              breakpoint: 480,
+                              settings: {
+                                arrows: false
+                              }
+                            }
+                        ]
                     })
                 }, 500);
                 jQuery('.navigation a').click(function(e){

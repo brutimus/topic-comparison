@@ -1108,6 +1108,138 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/bushmug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41414,
+		"inputAbbreviatedPath": "\/img\/bushmug.jpg",
+		"outputAbbreviatedPath": "\/img\/bushmug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/carsonmug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46510,
+		"inputAbbreviatedPath": "\/img\/carsonmug.jpg",
+		"outputAbbreviatedPath": "\/img\/carsonmug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/christiemug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39312,
+		"inputAbbreviatedPath": "\/img\/christiemug.jpg",
+		"outputAbbreviatedPath": "\/img\/christiemug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cruzmug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39936,
+		"inputAbbreviatedPath": "\/img\/cruzmug.jpg",
+		"outputAbbreviatedPath": "\/img\/cruzmug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fiorinamug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45659,
+		"inputAbbreviatedPath": "\/img\/fiorinamug.jpg",
+		"outputAbbreviatedPath": "\/img\/fiorinamug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/huckabeemug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34925,
+		"inputAbbreviatedPath": "\/img\/huckabeemug.jpg",
+		"outputAbbreviatedPath": "\/img\/huckabeemug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/kasichmug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42646,
+		"inputAbbreviatedPath": "\/img\/kasichmug.jpg",
+		"outputAbbreviatedPath": "\/img\/kasichmug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/paulmug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36728,
+		"inputAbbreviatedPath": "\/img\/paulmug.jpg",
+		"outputAbbreviatedPath": "\/img\/paulmug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/reaganmug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36472,
+		"inputAbbreviatedPath": "\/img\/reaganmug.jpg",
+		"outputAbbreviatedPath": "\/img\/reaganmug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/rubiomug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37599,
+		"inputAbbreviatedPath": "\/img\/rubiomug.jpg",
+		"outputAbbreviatedPath": "\/img\/rubiomug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/trumpmug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41372,
+		"inputAbbreviatedPath": "\/img\/trumpmug.jpg",
+		"outputAbbreviatedPath": "\/img\/trumpmug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/walkermug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33261,
+		"inputAbbreviatedPath": "\/img\/walkermug.jpg",
+		"outputAbbreviatedPath": "\/img\/walkermug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,

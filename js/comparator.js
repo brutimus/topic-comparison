@@ -14,7 +14,6 @@ if (!String.prototype.format) {
 }
 
 function comparator() {
-    var a='';
 
     function my(selection) {
 
@@ -26,15 +25,7 @@ function comparator() {
                         respondTo: 'slider',
                         centerMode: true,
                         slidesToShow: 1,
-                        centerPadding: '20px',
-                        responsive: [
-                            {
-                              breakpoint: 480,
-                              settings: {
-                                arrows: false
-                              }
-                            }
-                        ]
+                        centerPadding: '20px'
                     })
                 }, 500);
                 jQuery('.navigation a').click(function(e){

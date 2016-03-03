@@ -57,11 +57,10 @@ body {
   display: block;
   box-sizing: border-box;
   float: left;
-  height: 75px;
+  height: 65px;
   margin: 0;
   width: 50%;
   border-bottom: 1px solid white;
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e91d0e+0,d91b0d+100 */
   background: #e91d0e;
   /* Old browsers */
   background: -moz-linear-gradient(top, #e91d0e 0%, #d91b0d 100%);
@@ -90,7 +89,10 @@ body {
   font-size: .9em;
   line-height: 1em;
   box-sizing: border-box;
-  padding: 15px;
+  padding: 10px;
+}
+.container .navigation ul li a.active {
+  background-color: #f45a4f;
 }
 .container .navigation ul li a:link,
 .container .navigation ul li a:visited {
@@ -127,9 +129,9 @@ body {
   outline: 0;
 }
 .container .body .slideshow .slide .blurb {
-  font-size: .95em;
+  font-size: .85em;
   font-weight: 300;
-  margin: 10px 0;
+  margin: 6px 0;
   padding: 0 20px;
 }
 .container .body .slideshow .slide .mugs {
@@ -145,12 +147,12 @@ body {
   margin: 0 7px 0 0;
 }
 .container .body .slideshow .slide .mugs img {
-  max-width: 90%;
+  max-width: 75%;
   margin: 0 auto;
 }
 .container .body .slideshow .slide .mugs .vote {
   display: block;
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: 700;
   text-align: center;
 }
